@@ -1,2 +1,2 @@
 # hr
-hackerrank solutions
+hackerrank solutions to algorithm problems.
